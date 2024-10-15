@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Meshes/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPerson_Jump.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPersonJump_Loop.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPersonJump_Start.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPersonIdle.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPersonRun.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPersonWalk.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPerson_IdleRun_2D.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Blueprints/NPC_AnimBP.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Body_AO_R_MT.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Body_BC.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Body_N.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Materials/M_Priest_Base.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Hood_AO_R_MT.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Hood_BC.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Hood_N.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Material_Instances/MI_Priest_Hood.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Mask_AO_R_MT.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Mask_BC.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Mask_N.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Material_Instances/MI_Priest_Mask.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Skirt_AO_R_MT.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Skirt_BC.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Textures/T_Priest_Skirt_N.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Material_Instances/MI_Priest_Skirt.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Meshes/SK_Priest_PhysicsAsset.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Meshes/SK_Priest.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Blueprints/NPC.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Blueprints/ThirdPerson_AnimBP.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Blueprints/ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
