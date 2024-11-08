@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.uasset",
+				"E:/Github Works/ProjectAntiqua/Content/PrototypeLevel1.umap",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/PrototypeLevel1.umap",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/Textures/You-Died-PNG-Photos.uasset",
