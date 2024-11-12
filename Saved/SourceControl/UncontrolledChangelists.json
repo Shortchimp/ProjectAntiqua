@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/PrototypeLevel1.umap",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/Textures/You-Died-PNG-Photos.uasset",
@@ -333,6 +334,9 @@
 				"C:/Users/Jayden CSUSB/OneDrive/Documents/GitHub/ProjectAntiqua/Content/Inventory/Structures/S_Itemmaster.uasset",
 				"C:/Users/Jayden CSUSB/OneDrive/Documents/GitHub/ProjectAntiqua/Content/Inventory/Levels/ExampleMap.umap",
 				"C:/Users/Jayden CSUSB/OneDrive/Documents/GitHub/ProjectAntiqua/Content/FlexibleCombatSystem/Blueprints/BP_GameModee.uasset",
+=======
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Meshes/UE4_Mannequin_Skeleton.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPerson_Jump.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Cave_Ruins/Character/Animations/ThirdPersonJump_Loop.uasset",
