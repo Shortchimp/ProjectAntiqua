@@ -7,6 +7,12 @@
 			"files": [
 				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.uasset",
 				"E:/Github Works/ProjectAntiqua/Content/PrototypeLevel1.umap",
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/Animations/Drinking_Animation/Drink_Potion.uasset",
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/Animations/Drinking_Animation/Drink.uasset",
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/DemoRoom/Blueprint/BP_BlockToggle.uasset",
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/DemoRoom/Blueprint/BP_SpawnToggle.uasset",
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/Animations/Drinking_Animation/Drinking_UE.uasset",
+				"E:/Github Works/ProjectAntiqua/Content/FlexibleCombatSystem/Animations/Drinking_Animation/Drinking_1__UE.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/PrototypeLevel1.umap",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/Textures/You-Died-PNG-Photos.uasset",
