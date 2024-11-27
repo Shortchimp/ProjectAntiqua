@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/casti/OneDrive/Documents/GitHub/ProjectAntiqua/Content/ParisStreet/Meshes/SM_ChezMarceau.uasset",
+				"C:/Users/casti/OneDrive/Documents/GitHub/ProjectAntiqua/Content/FlexibleCombatSystem/DemoRoom/MapDemo.umap",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/ParisStreet/Meshes/SM_ChezMarceau.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/DemoRoom/Meshes/UE4_Mannequin_Skeleton.uasset",
