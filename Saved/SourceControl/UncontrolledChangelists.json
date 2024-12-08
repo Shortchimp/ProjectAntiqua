@@ -17,7 +17,11 @@
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/NPCs/BP_ErinNPC1Tutorial.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Fantasy_Pack/Characters/Warrior/Mesh/SK_Warrior.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Fantasy_Pack/DemoScene/Mesh/UE4_Mannequin_Skeleton.uasset",
-				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset"
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Inventory/Blueprints/BP_Inventory.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Animations/Drinking_Animation/Drink.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/SampleMap.umap",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/BenchMechanic/BP_SaveBench.uasset"
 			]
 		}
 	]
