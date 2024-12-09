@@ -20,8 +20,15 @@
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Widgets/WB_DeathScreen.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/Inventory/Blueprints/BP_Inventory.uasset",
 				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Animations/Drinking_Animation/Drink.uasset",
-				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/SampleMap.umap",
-				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/BenchMechanic/BP_SaveBench.uasset"
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/BenchMechanic/BP_SaveBench.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/AI/TrainingDummys/BP_AssasinationDummy.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/AI/TrainingDummys/BP_DummyStealth.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/AI/BP_EnemyAI.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/BP_GameModee.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/AI/TrainingDummys/BP_KillCamDummy.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/AI/TrainingDummys/BP_PatrolDummy.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/FlexibleCombatSystem/Blueprints/AI/TrainingDummys/BP_XPDummy.uasset",
+				"C:/Users/netsk/Documents/Unreal Projects/AntiquaSequel/Content/SampleMap.umap"
 			]
 		}
 	]
