@@ -1,0 +1,1186 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "8B60AF00137B6CA88FACD4508CFC3E55F2189A88",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "DC7A3B01100613A6A15F653C4F0FE645F9B16364",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Mcables"
+			]
+		},
+		{
+			"ShaderMapHash": "EAAB7D03C257D32B317B33AECB3FB2D64178F596",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "500F0C08FFB8B22D89171C680C0813138B1449C2",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Barbarian_Cloth",
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Wool"
+			]
+		},
+		{
+			"ShaderMapHash": "534843093884583826F0052358BD94AC9E90D182",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AEDF740AC033651E8DA6EC59B8EB82072DDD3B4C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0D37F40C3187D55FB68BFC7C37EB241A49C52F97",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_TacticiaAirglow"
+			]
+		},
+		{
+			"ShaderMapHash": "228C120E17E3A15F5610F14089815416AB97DC5A",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_StriscePedonali"
+			]
+		},
+		{
+			"ShaderMapHash": "6397B80F94AC21BC8A2C9FEE33E10A93CC4B0587",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "F6B3761020EB8BAB0701025FAEFE65CF9C81D4BF",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_DefaultStreet"
+			]
+		},
+		{
+			"ShaderMapHash": "7B7A06117D58074167E94E998B5B125F6F43D873",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3231C11BAE2FB3C10AE337E860C38EF42CBE688",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "181CEE124226B7BC3BC6982CF05C1192F10A212C",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "A5CE11174B6AAEDA4DB6D0C4FED04511F2F85B51",
+			"Assets": [
+				"/Game/Inventory/Materials/M_armor_giseti_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "EF73151756420758744A40F0791ECCEFE76CC55C",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Dust"
+			]
+		},
+		{
+			"ShaderMapHash": "F8BB221B003037F14E1B311657EB54FB45E7AFC5",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "44F87D1BEBB4E9E3EF05033E78FC288B198784C1",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Hotdog_Spark_VLerp_MASTER",
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Hotdog_Spark_VLerp_MASTERKwang"
+			]
+		},
+		{
+			"ShaderMapHash": "8075F11B726105D773AFF628F2B9FC160877CD63",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C4F2091CB4642716303765420C141E0349BDF868",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "AB0CD11D6912CDED611EE0208E524970B16BE6D8",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Bush"
+			]
+		},
+		{
+			"ShaderMapHash": "88792E20E71D188E84A72EC99C1D9001DC4BCC68",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "43F094212D508AB06CEE49E2E15C4A4F2FF81980",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Terra_Helmet"
+			]
+		},
+		{
+			"ShaderMapHash": "05D89B23F3909C8D2D661510EDA8F4C43209F955",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/Inventory/UnrealEngineContent/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "258BA524B89C2B5D5AE818C623C1B168DCA1E288",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Magical_Threads_GPU"
+			]
+		},
+		{
+			"ShaderMapHash": "7F7F8C2558EC12A29C8B6666646F39D1A753B5F0",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_DefaultTextMaterialTranslucentUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "A92238262FF10EFA41F991DEAA2B59A934AD9192",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Radial_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "93B90E27EF2135118F6B08BDAAC1B9467233097F",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_Vetro02"
+			]
+		},
+		{
+			"ShaderMapHash": "058731271320C4DD17D058391DCEB6B8592A8B30",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "7C6D492817E725D9490C1B8804BFB3E89059DAB6",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "41D8962AD2FF6AA6A4CF01DA79E765891B13A086",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_Glass_Inst",
+				"/Game/ParisStreet/Materials/MI_Glass_Inst_2"
+			]
+		},
+		{
+			"ShaderMapHash": "FB2B622D99C54D56530618D023FF29A54F8D3D0E",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Soft_Spark_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "80AE8B2D356A64FCE206CFC626BED8C6D4E74FB7",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "77924A2F1CA16160BBECB04E177D945C08505F59",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Lensflare_TB_Soft"
+			]
+		},
+		{
+			"ShaderMapHash": "F9A1B42F40EA66C69EA4D8857203A816BB8EB97C",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Green"
+			]
+		},
+		{
+			"ShaderMapHash": "5F2B7430DE5ABCB27BDEC1AC6ADE743D92F878AC",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_DemoWallPattern_NoText"
+			]
+		},
+		{
+			"ShaderMapHash": "B885A633A8DB4C6D8FF30FF82F51E9784FC54902",
+			"Assets": [
+				"/Game/Inventory/Materials/M_Chest_Mat",
+				"/Game/Inventory/Materials/M_Coinpuresnormal_Mat",
+				"/Game/Inventory/Materials/M_KnightShield_Mat",
+				"/Game/Inventory/Materials/M_PotionA_Cork_BaseColor_Mat",
+				"/Game/Inventory/Materials/M_PotionA_Glass_BaseColor_Mat",
+				"/Game/Inventory/Materials/M_Short_Sword_Mat",
+				"/Game/Inventory/Materials/M_SteelShield_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BC34CA333E2A06EC4ED343674C56DB5301676F55",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F3377F38419732478AF88ACFD1FF0AE4B2D7A714",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "55A97C3ACE263DD71525BE9C1F832466B11941CA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ED06BC3ADBC60D388B561D906A6D06DEBA4AF877",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "43682D3B29F8E9EF44DDA91CAD1D00D7C50D0F28",
+			"Assets": [
+				"/Game/JoeyModels/HunterV2/Coat_2",
+				"/Game/JoeyModels/HunterV2/Head_Glasses_Hat_Belts_Face_shirt_2",
+				"/Game/JoeyModels/HunterV2/Pant_shoe_buttons_Vest_gloves_2"
+			]
+		},
+		{
+			"ShaderMapHash": "CEB6203CF170A984D8DCD78FAC78E2F16268F246",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_Piano06",
+				"/Game/ParisStreet/Materials/MI_TabacchiGlass",
+				"/Game/ParisStreet/Materials/MI_Vetro01",
+				"/Game/ParisStreet/Materials/MI_VetroSX03"
+			]
+		},
+		{
+			"ShaderMapHash": "1F134D3C655C2B182054888212003779E544CF79",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Logo"
+			]
+		},
+		{
+			"ShaderMapHash": "704E613C716529ADF3D951D50F77134DA4CCA500",
+			"Assets": [
+				"/Game/ParisStreet/Levels/SampleMap",
+				"/Game/PrototypeLevel1",
+				"/Game/PrototypeLevel2"
+			]
+		},
+		{
+			"ShaderMapHash": "69259E3C69DAE0B2CA1397A9F3B91FB3AE550932",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5524543EA07FD2143A89A6D159942C8319FCE9CD",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D14AE63E8859339B4CC825C638D3AB4A20241C9B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "1F734740633D55B3D080309E3C4AEF913B86C654",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Anime_Flare"
+			]
+		},
+		{
+			"ShaderMapHash": "DB2C45416C947384CA8B83440667CEFE85646376",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Glass02"
+			]
+		},
+		{
+			"ShaderMapHash": "D60BC942126FD6B9013D2D7DA3A92B0030293147",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Barbarian_Body_2",
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Barbarian_Body_01",
+				"/Game/Fantasy_Pack/Characters/Dwarf/Materials/M_Dwarf",
+				"/Game/Fantasy_Pack/Characters/Dwarf/Materials/M_Dwarf_Axe",
+				"/Game/Fantasy_Pack/Characters/Golem/Material/M_Golem",
+				"/Game/Fantasy_Pack/Characters/Viking_Ulf/Materials/M_Ulf_Axe"
+			]
+		},
+		{
+			"ShaderMapHash": "BCDCD243BCE5E2A9A901BA93DF6A0CFB9C76DFEB",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "07908A447BE742BBF5E5534F7B60B24E332FDAB4",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "988BED4471770463B100C5B7629F01048AFA301C",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_CleanseFlare"
+			]
+		},
+		{
+			"ShaderMapHash": "79E85C460157D23C4B01B674DC2509AFD6D4532B",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Werewolf/Materials/M_Werewolf"
+			]
+		},
+		{
+			"ShaderMapHash": "3C6783460CB46B09BE3E67FDE3362BE582D6613F",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Inventory/UnrealEngineContent/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
+			]
+		},
+		{
+			"ShaderMapHash": "2FCE8C47E980ADBB5FF8B59408256E86CCA353B8",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_CurvedBrick",
+				"/Game/ParisStreet/Materials/MI_CurvedBrick2",
+				"/Game/ParisStreet/Materials/MI_MarciapiedeCurvo",
+				"/Game/ParisStreet/Materials/MI_MattoneCurvo",
+				"/Game/ParisStreet/Materials/MM_Ground_2"
+			]
+		},
+		{
+			"ShaderMapHash": "660F9749E39C0F77A67CCE1B65B9D10602377864",
+			"Assets": [
+				"/Engine/EditorMaterials/WidgetMaterial_Current"
+			]
+		},
+		{
+			"ShaderMapHash": "335BBA49BACD5FFFC2319A924B942349C67A8235",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "9587C649342C8017FEF17EC591338C270E640CC4",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Tegole04"
+			]
+		},
+		{
+			"ShaderMapHash": "CEA72E4DE4ECB65B3FC8366FEF2C7CA1AD0D2F96",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign1",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign10",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign2",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign3",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign4",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign5",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign6",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign7",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign8",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Sign9"
+			]
+		},
+		{
+			"ShaderMapHash": "040E684D761DD0E8B4E2B13DC7003ACCED421372",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Video"
+			]
+		},
+		{
+			"ShaderMapHash": "3D42D44E308FD32D88B3A803ECCBFD8B94133853",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "77B8784FB82C2490CF8CB53A54EBACDB14BD5ECA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "B8887853F5386EFB2FFEB096EC3AB5F1CEF2E50C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9EED9453C26C2BED839D3D0E32D9332C04562EA0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "43E22754C33C89280938EB86EEA22D62168D2BB1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "4891735463ACCB09072DD4460A87D09E263DD780",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "AFA60555466AC2D3C58DA51288B3098FCD0818BE",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "2F054555F611E5E3000442693C8E714BD9A2CBAF",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "95BFE255AA5B64E9FA2BC7A300B940C9814B3EBF",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0DD704565096439AD6E58B7AA380658024BBC5DF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "9B59E757AE9C14081071352103CD43DB8FF53A23",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "851BE7582B24926E76F8DC4AD5823A395C98ABB4",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Fogging"
+			]
+		},
+		{
+			"ShaderMapHash": "086A295957F7269B159607ED14CE2C6840F1B9A9",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9AC6FB59B6265C1C3381C16B5A3B8B233E3DFEA6",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "F63C605C8423AAB9E465E86BF644EEAC4C9ED274",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC92DA5CC2AB6C80615370E473B9FE300D15AB59",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_LCD"
+			]
+		},
+		{
+			"ShaderMapHash": "1F105F5D78A95F92C4DB703361FE3FC8257F71E0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9ECADA5DC594C292B18504D470D47AF13D318AA6",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6829965E01C08B8B8C803DBA08477E916D6C9D0C",
+			"Assets": [
+				"/Game/Inventory/Materials/M_Knight_Base_Color_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "7E47D25EB0F2785D4F1F143C409872EA33312E74",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "764B285FA8E17066DADADCC1975D744986804A16",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_VetroSX02"
+			]
+		},
+		{
+			"ShaderMapHash": "AB72E264D4760A57DFE7F3D412D35AADFB641637",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "B462F064ED9389E881DB46BD2CBC982C141B43CC",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "7754556757CDE3B6339979C9B23F6026BB72D09E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3F6E286E3814329023A974CFC065E99452111CBB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0DF1296E22DD03313999E11917A9036D15E313A9",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_MasterEmissive"
+			]
+		},
+		{
+			"ShaderMapHash": "5C17E971EC567D500855BEC0933630B996D38417",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Crunch_Impact_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "0E0E70726D7AC49603425F36F1770ED70BA1A302",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorViewMode_GreenOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "4CF6237359F998C9149CBCCB7113BDB38021CB09",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_DefaultStreet"
+			]
+		},
+		{
+			"ShaderMapHash": "D16CBE73293ACD5CECA2C077B00B05A9711F428F",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "5A18FC78C33EB64FED63A8679F4DD224EFC82E7B",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Terra_Helmet"
+			]
+		},
+		{
+			"ShaderMapHash": "2745D07CB9CD4F23F747B381C09647E8149B6A68",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_TerraHitArc"
+			]
+		},
+		{
+			"ShaderMapHash": "2FCED97C88D1C0C9F818334EF3EB30DA2D4BFBF4",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_DemoRoomTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "C154BE7D48985EA0397033E5E927410FB87C64F2",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_SparksPhoto"
+			]
+		},
+		{
+			"ShaderMapHash": "94BE377E319FE9ADD2AFC12A2EBC84832E25C1F4",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored"
+			]
+		},
+		{
+			"ShaderMapHash": "B8CCF9801DC655E02D6F43D1CC993FED05F0EB18",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Fire_Procedural_Round"
+			]
+		},
+		{
+			"ShaderMapHash": "AB610D81B4D9C72933E30238A4F4C223887F4AFE",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "BB27D3813BD70A8A15CCC56C183DCF146CE11606",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Axe"
+			]
+		},
+		{
+			"ShaderMapHash": "0CAC4C83B841C9B400F0FC4B1DC3F1C0EEF11181",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "DEC0B0833ADCFE1C9B9BD22CC65DD260EA913259",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Basic01"
+			]
+		},
+		{
+			"ShaderMapHash": "40880F8492FC38E8F280C2D6C1D0C3D041B7609C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "600AEA8B7DF0CB04709FF743B5682322D190E047",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Projectile_Wind_Rush"
+			]
+		},
+		{
+			"ShaderMapHash": "AC7B1A8D0F5A8867A4D6DA12F693A22C5E6EE7C6",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "9F9C718E1F2B5A3199CC7974787EA4C18EDC7251",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Crunch_Impact_02"
+			]
+		},
+		{
+			"ShaderMapHash": "212FC190F1BAC93CD8A6C0FE94AA4E79FC8333AA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "34872A9206B5EB502B800399400C4EDA9F9CB4F4",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BA9AB0923322E8B43CB5B5C2355ACB7DA69D32C5",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "1C636693D854CF5EF2132DBBEBCCF3D0B1CC6D32",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Basic02"
+			]
+		},
+		{
+			"ShaderMapHash": "2669DF959088980613D10154B132888C919862A7",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "FDA0FB95397E39D20B27235509A4760568F4F9E9",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_DemoWall"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B109969072E1A6DE7AF06D1D9BC6AE6A662E15",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Decals"
+			]
+		},
+		{
+			"ShaderMapHash": "47E20A96C555F9CD94BFF12D783F6A7F7F24FCB5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE63B9662FDD1ECB94172D1E69420FFB4745985",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D3A3AB96903698C842F865E0D5D8634D3E4CC626",
+			"Assets": [
+				"/Game/Inventory/Materials/M_Outline"
+			]
+		},
+		{
+			"ShaderMapHash": "167FAB97A7DAFBD89512EC63C678A2304DAF67AA",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Kwang_Weapon_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "DFE8D49AEF0C48A664D089429524E64E65FBED80",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Base",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Chrome",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Glossy_Dark_Grey"
+			]
+		},
+		{
+			"ShaderMapHash": "1C63369BA300C38A984C7AF15FDD9343A2D24FEB",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Inventory/UnrealEngineContent/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "8E4E229E3F32031BAD99A3E1132DDD889F71650C",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Kwang_Weapon_Bright"
+			]
+		},
+		{
+			"ShaderMapHash": "F3FB609ECA543AF843927ECE8177771D824E7C83",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "C922F69E00C6B2E58109F3F64D4014D01EA2D2E4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "57613A9FB6EBDE274953405ABAF3EFB68ECB5482",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Fantasy_Barbarian/Materials/M_Fantasy_Barbarian_Axes"
+			]
+		},
+		{
+			"ShaderMapHash": "A4A73A9F8747473B5ADB1D2BEAEC1C70FB38844A",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "48E411A029002702A99DD48BDE1990F4008CBB51",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0A4EBDA0E13719316A1F7D143528C754E7ACF339",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "4E8910A2A3DD7EAFADCE1412E43E424C3F42AF32",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Fantasy_Barbarian/Materials/M_Fantasy_Barbarian"
+			]
+		},
+		{
+			"ShaderMapHash": "83BF2FAACE2A5A03DB2110BD8144EB4A00E5E623",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "32A096AFEBE814021C30266A47C1A734B6E13E59",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Radial_Gradient_DepthFade"
+			]
+		},
+		{
+			"ShaderMapHash": "D0EC1AB074234DEC6CF97891374F35BC2266B59A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CFFF48B0E462CFB7E6359E04269E8CB689B2EA6B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AFBF29B1E0C9B3B6341B8077BBF33DC0A048EB5D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "FF14B1B1CAAA9FD81E6BE9E51D4F404A4A7DC93A",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Terra_Helmet"
+			]
+		},
+		{
+			"ShaderMapHash": "DD1D03B2CC16067ECC7DF5791FDD2C4AECAED6FE",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_GlassCubemap"
+			]
+		},
+		{
+			"ShaderMapHash": "91D6F4B24960D738DF2127F09DF4517F704789CD",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "28C719B46BFB8BD1B882064753FA97316FE4E1AE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "05327DB61A63CA2B95E29890EB608D3B7814FAD7",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_Tegole",
+				"/Game/ParisStreet/Materials/MI_Tegole_2",
+				"/Game/ParisStreet/Materials/MI_Tegole_3"
+			]
+		},
+		{
+			"ShaderMapHash": "5D2308BB9A025B2652B3445B0EEFF156E163DBE6",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_LightTube"
+			]
+		},
+		{
+			"ShaderMapHash": "1858E9BC8D9C2641E3E679924B4F6CE2365BC7F2",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "23A8B0BF29E4172BC5CE7805066FE568DECB0886",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_DemoWallPattern"
+			]
+		},
+		{
+			"ShaderMapHash": "D7DA2BC0A3C2E1EB0E89811055079727C278BB5E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C23CEBC0CFE9A8FD7A0A0133307E63031CD94131",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/RPG_Knight/Materials/M_Knight_Armors_Weapon",
+				"/Game/Fantasy_Pack/Characters/RPG_Knight/Materials/M_Knight_Body",
+				"/Game/Fantasy_Pack/Characters/Warrior/Materials/M_Warriror"
+			]
+		},
+		{
+			"ShaderMapHash": "0F4BD8C27F62295114FB9ED88BF404E5E9D8FF25",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5B964FC50B0DC13790C4EECE091AF30531DD0D16",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_OpacityMask"
+			]
+		},
+		{
+			"ShaderMapHash": "AB1320C62A6A3DD15B627745E71D07794E6DD9FC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6E48F2C718D6BC52B0CB6B43CDD479FC6DC8AC86",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "9BAA23C86F2E8F62A7A033ED649BA5CCBE036DA4",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Orc_Hummer/Material/M_Orc_Hummer"
+			]
+		},
+		{
+			"ShaderMapHash": "0211A1C98EEE15662BB5CB5547760A64C792FB2A",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_WeaponSet_1"
+			]
+		},
+		{
+			"ShaderMapHash": "652DB7CAC7FEC19705446D65553E84A32DF84D01",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Tegole"
+			]
+		},
+		{
+			"ShaderMapHash": "3AE3FBCD4024AE5F0743DB37B1922899C01B1DB3",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Turbulent_SmokeSubUV"
+			]
+		},
+		{
+			"ShaderMapHash": "110B72CF298E3BA257BD69E7527CF8474D0D68BB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "15FCECD0C1971C2E30384B1C59CF776340F1B214",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_White"
+			]
+		},
+		{
+			"ShaderMapHash": "4313D6D11F64CF5397C1767753CD106543695085",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "3328B7D5E9724095DE1791C13F5FB48E09520BEA",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_HouseVertexPainting01"
+			]
+		},
+		{
+			"ShaderMapHash": "9306EDD589EEC5368DA90BFC34E89575A1CD9E2B",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "929D7CD684D43EC54DF91992E2D0E0615D1713D6",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "58E434D780513319C78DC82AAE8BC7C86CB757AB",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Tegole03"
+			]
+		},
+		{
+			"ShaderMapHash": "0C97E7D8B0DAFD1EA068F4A5A8F54D60F699BAB7",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Char_Golden"
+			]
+		},
+		{
+			"ShaderMapHash": "088564DA5572C953661341858DCCD08CD4EF80FA",
+			"Assets": [
+				"/Game/Fantasy_Pack/Characters/Barbarian/Materials/M_Barbarian_Armors",
+				"/Game/Fantasy_Pack/Characters/Troll/Materials/M_Troll",
+				"/Game/Fantasy_Pack/Characters/Viking_Ulf/Materials/M_Ulf"
+			]
+		},
+		{
+			"ShaderMapHash": "E0C46BDC639F731B623872C10A7C7BE3AE0E8441",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "150070DD4EA6C04D8BE3C2CA1A3B2E4E41068B2D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "75AAF9DED5CDBB4FB632689B8339F8795385579C",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Lensflare_TB_Soft_LDR2HDR",
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/MI_Lensflare_TB_Soft_LDR2HDR_OrderAffinity"
+			]
+		},
+		{
+			"ShaderMapHash": "43E278DF2DFB8D936EB21D983B4FF9EB719E5A05",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "4F3CD0E2F19239DF0F98AA1AA984C036C9CC680C",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Hotdog_Spark_VLerp_DOF_Rand_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "E623DEE4ECA1C8A0D4BC229D07812E1F5652A5D3",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "FC5878E509FA6F901EAD45ACA4C65D71AB5BBA7E",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EF51A9E5F882F642A7FD387E342F66DD00DF7ADD",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "1CF873E8AD20780267A1F015F26A1480C7F3CAA5",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Glass",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_Glass_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "19AC4BE92ACCDE08A84ACFD069EDB1BCD66AF07E",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CF64E6EC4486A72A4946526ED031DA19EEB13297",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "CB9420EF8BD2D6601541B8DED29E0F4AF7F34E19",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D82B35F17CB34BA2346F93F60BB6B23F522109EF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E675B8F13993B174DE79BEC189F474D2D9CFBDC3",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "A827C7F21A702956509E4F14FB87109455EF08B0",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_DecalsCoffee",
+				"/Game/ParisStreet/Materials/MI_DecalsCoffee_2",
+				"/Game/ParisStreet/Materials/MI_DecalsCoffee_3",
+				"/Game/ParisStreet/Materials/MI_DecalsCoffee_4",
+				"/Game/ParisStreet/Materials/MI_DecalsGrunge",
+				"/Game/ParisStreet/Materials/MI_DecalsMaster_01",
+				"/Game/ParisStreet/Materials/MI_DecalsMaster_02",
+				"/Game/ParisStreet/Materials/MI_DecalsMaster_03",
+				"/Game/ParisStreet/Materials/MI_DecalsMaster_04",
+				"/Game/ParisStreet/Materials/MI_DecalsMaster_05",
+				"/Game/ParisStreet/Materials/MI_DecalsMaster_06"
+			]
+		},
+		{
+			"ShaderMapHash": "D05A3AF3D37C77EA2D3CD89C30D887AABD19111C",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MI_AngularBrick",
+				"/Game/ParisStreet/Materials/MI_BigBrick",
+				"/Game/ParisStreet/Materials/MI_BigBrick_1",
+				"/Game/ParisStreet/Materials/MI_StreightBrick4"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B2F3F3F020FA8CA4FE95EEFECDC72BE38BEC7F",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_SaveFile",
+				"/Game/FlexibleCombatSystem/DemoRoom/Materials/M_SignYouTube",
+				"/Game/Inventory/Materials/M_String_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E67683F4B772943C36BB36951AE1A2908604343C",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E910C7F4DBE3E871F7C22A60D00B3A5F17FE9314",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Inky_Smoke_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "3C94C0F5D8AC0EEF308EE009E13C8F0F05A78874",
+			"Assets": [
+				"/Game/FlexibleCombatSystem/DemoRoom/VFX/Materials/M_Terra_ChromaticFresnel"
+			]
+		},
+		{
+			"ShaderMapHash": "41F8A9F6594F2E778BC329801D35DE7A83D3801C",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "40D389FAD8BED4D379F753010BDA8FBB036D03AF",
+			"Assets": [
+				"/Game/ParisStreet/HDRI/HDRI1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "DB4AF7FBBE9333F623CD47F108A7D0285DB808C6",
+			"Assets": [
+				"/Game/ParisStreet/Materials/MM_Dust_2"
+			]
+		},
+		{
+			"ShaderMapHash": "EE894EFDC250878B850841DEF13DA6E15EB43E77",
+			"Assets": [
+				"/Game/Inventory/Materials/M_Mannquinn"
+			]
+		},
+		{
+			"ShaderMapHash": "314497FDA099E434D099D656FA0C6D1AD8B47691",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "9C3A95FF877D8990EEE2BD373AF934C2AE35EED9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "AB04BEFFDE83086A661B92B3C0B15453CBEF07EE",
+			"Assets": [
+				"/Game/Inventory/UnrealEngineContent/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "9A4ED7FF50934131935DF26F6D88325A37C271EE",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		}
+	]
+}
